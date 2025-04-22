@@ -1,4 +1,4 @@
-# EXPERIMENT--01-ALP-FOR-8086
+# EXPERIMENT 01 ALP FOR 8086
 ## Name :RAJA GOPAL V
 ## Roll no : 212223240134
 ## Date of experiment : 11.03.2025
